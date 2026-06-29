@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">Hi 👋, I'm Bano Mariam</h1>
 
 <p align="center">
@@ -189,4 +188,4 @@ Responsive portfolio showcasing projects, skills and certifications.
 ⭐ Thanks for visiting my profile! If you like my work, feel free to connect and explore my repositories.
 
 </p>
-```
+
