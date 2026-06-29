@@ -70,7 +70,6 @@ Production-ready Retrieval-Augmented Generation system supporting PDF, DOCX and 
 
 `Python` • `FastAPI` • `Claude API` • `ChromaDB` • `Sentence Transformers`
 
-> 🔗 Repository *(Coming Soon)*
 
 ---
 
@@ -82,7 +81,7 @@ AI-powered Final Year Project that automates vehicle inspection using Computer V
 
 `Flutter` • `Python` • `Firebase` • `Computer Vision`
 
-> 🔗 Repository *(Coming Soon)*
+
 
 ---
 
