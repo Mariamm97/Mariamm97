@@ -1,27 +1,27 @@
 <h1 align="center">Hi 👋, I'm Bano Mariam</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Aspiring+AI%2FML+Engineer;Computer+Vision+Enthusiast;Deep+Learning+%7C+LLMs;Building+Intelligent+AI+Systems" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mariamm97&label=Profile%20Views&color=6C63FF&style=flat" />
-</p>
-
 <h3 align="center">
-Aspiring AI/ML Engineer • Computer Vision • Deep Learning • LLMs • Python
+Aspiring AI/ML Engineer • Computer Vision • Deep Learning • Large Language Models (LLMs)
 </h3>
 
 <p align="center">
+Building intelligent AI systems with Machine Learning, Computer Vision, and Generative AI.
+</p>
+
+<p align="center">
   <a href="https://banomariam-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/🌐 Portfolio-Visit-6C63FF?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-6C63FF?style=for-the-badge" />
   </a>
   <a href="https://www.linkedin.com/in/banomariam/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:banomariam97@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mariamm97&label=Profile%20Views&color=6C63FF&style=flat-square" />
 </p>
 
 ---
@@ -30,23 +30,24 @@ Aspiring AI/ML Engineer • Computer Vision • Deep Learning • LLMs • Pytho
 
 I'm an aspiring **AI/ML Engineer** passionate about building intelligent systems using **Machine Learning, Deep Learning, Computer Vision, and Large Language Models (LLMs).**
 
-I enjoy designing end-to-end AI applications—from data processing and model training to deployment—that solve real-world problems.
+I enjoy designing end-to-end AI applications—from data preprocessing and model development to deployment—that solve real-world problems.
 
 - 🎓 BS Computer Engineering Graduate
-- 🤖 Passionate about AI, Computer Vision & Generative AI
-- 🔍 Interested in LLMs, RAG Systems & MLOps
+- 🤖 Passionate about Artificial Intelligence & Computer Vision
+- 📄 Experienced in Retrieval-Augmented Generation (RAG) systems
+- 🧠 Interested in LLMs, Generative AI & MLOps
 - 🌱 Continuously learning modern AI technologies
 - 💼 Open to AI/ML, Computer Vision & Software Engineering opportunities
 
 ---
 
-# 🚀 Currently Working On
+# 🚀 Currently Learning
 
-- 📄 Retrieval-Augmented Generation (RAG) Applications
-- 🤖 Large Language Models (LLMs)
-- 🧠 Deep Learning & Computer Vision
-- ⚡ FastAPI Backend Development
-- ☁️ Learning MLOps & AI Deployment
+- 🔹 Large Language Models (LLMs)
+- 🔹 Retrieval-Augmented Generation (RAG)
+- 🔹 MLOps & AI Deployment
+- 🔹 FastAPI Backend Development
+- 🔹 Production AI Systems
 
 ---
 
@@ -69,6 +70,8 @@ Production-ready Retrieval-Augmented Generation system supporting PDF, DOCX and 
 
 `Python` • `FastAPI` • `Claude API` • `ChromaDB` • `Sentence Transformers`
 
+> 🔗 Repository *(Coming Soon)*
+
 ---
 
 ## 🚗 AI Vehicle Inspection System
@@ -79,13 +82,19 @@ AI-powered Final Year Project that automates vehicle inspection using Computer V
 
 `Flutter` • `Python` • `Firebase` • `Computer Vision`
 
+> 🔗 Repository *(Coming Soon)*
+
 ---
 
 ## 🌐 Personal Portfolio
 
-Responsive portfolio showcasing projects, skills and certifications.
+Responsive portfolio showcasing my projects, skills, certifications, and experience.
 
-🔗 https://banomariam-portfolio.vercel.app
+🔗 **Live Website:**  
+https://banomariam-portfolio.vercel.app
+
+🔗 **Repository:**  
+https://github.com/Mariamm97/banomariam-portfolio
 
 **Tech Stack**
 
@@ -93,9 +102,9 @@ Responsive portfolio showcasing projects, skills and certifications.
 
 ---
 
-# 🛠 Tech Stack
+# 💻 Tech Stack
 
-## Languages
+### Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
@@ -104,7 +113,7 @@ Responsive portfolio showcasing projects, skills and certifications.
 
 ---
 
-## AI / Machine Learning
+### AI / Machine Learning
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
@@ -115,15 +124,15 @@ Responsive portfolio showcasing projects, skills and certifications.
 
 ---
 
-## LLM & AI
+### LLM & AI
 
 ![LangChain](https://img.shields.io/badge/LangChain-black?style=flat-square)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-4B8BBE?style=flat-square)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat-square&logo=huggingface)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat-square&logo=huggingface)
 
 ---
 
-## Backend & Web
+### Backend & Web
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js)
@@ -131,13 +140,13 @@ Responsive portfolio showcasing projects, skills and certifications.
 
 ---
 
-## Mobile
+### Mobile
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter)
 
 ---
 
-## Tools
+### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
@@ -149,7 +158,7 @@ Responsive portfolio showcasing projects, skills and certifications.
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
 
@@ -160,32 +169,28 @@ Responsive portfolio showcasing projects, skills and certifications.
 </p>
 
 <p align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mariamm97&theme=tokyonight"/>
-
 </p>
 
 ---
 
-# 🌟 Fun Fact
+# 📫 Let's Connect
 
-> I enjoy building AI applications that bridge research and real-world impact through Computer Vision and Large Language Models.
+📧 **Email**  
+banomariam97@gmail.com
 
----
+💼 **LinkedIn**  
+https://linkedin.com/in/banomariam
 
-# 📫 Connect With Me
-
-📧 **Email:** banomariam97@gmail.com
-
-💼 **LinkedIn:** https://linkedin.com/in/banomariam
-
-🌐 **Portfolio:** https://banomariam-portfolio.vercel.app
+🌐 **Portfolio**  
+https://banomariam-portfolio.vercel.app
 
 ---
 
 <p align="center">
 
-⭐ Thanks for visiting my profile! If you like my work, feel free to connect and explore my repositories.
+⭐ Thank you for visiting my GitHub profile!  
+Feel free to explore my repositories and connect with me.
 
 </p>
 
