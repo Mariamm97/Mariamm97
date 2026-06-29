@@ -32,7 +32,7 @@ I'm an aspiring **AI/ML Engineer** passionate about building intelligent systems
 
 I enjoy designing end-to-end AI applications—from data preprocessing and model development to deployment—that solve real-world problems.
 
-- 🎓 BS Computer Engineering Graduate
+- 🎓 BS Software Engineering Graduate 2026
 - 🤖 Passionate about Artificial Intelligence & Computer Vision
 - 📄 Experienced in Retrieval-Augmented Generation (RAG) systems
 - 🧠 Interested in LLMs, Generative AI & MLOps
